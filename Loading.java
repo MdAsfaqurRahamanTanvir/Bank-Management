@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Tonmoy
+ * 
  */
 import java.sql.*;
 import javax.swing.JOptionPane;
@@ -73,14 +73,14 @@ Thread th;
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\BankManagementSystem\\images\\prime-bank-limited.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("prime-bank-limited.jpg")); // NOI18N
 
         jProgressBar1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jProgressBar1.setForeground(new java.awt.Color(51, 204, 0));
 
         jLabel2.setText("Loading...");
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\BankManagementSystem\\images\\Loading.gif")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon("Loading.gif")); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
