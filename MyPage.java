@@ -15,7 +15,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Tonmoy
+ *
  */
 public class MyPage extends javax.swing.JFrame {
 Connection cnn;
@@ -219,7 +219,7 @@ PreparedStatement pst;
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\BankManagementSystem\\images\\prime-bank-limited.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("prime-bank-limited.jpg")); // NOI18N
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel1.setText("User");
@@ -229,7 +229,7 @@ PreparedStatement pst;
 
         jTextField2.setEditable(false);
 
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\BankManagementSystem\\images\\images.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("images.png")); // NOI18N
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
@@ -291,7 +291,7 @@ PreparedStatement pst;
 
         jTextField12.setEditable(false);
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\BankManagementSystem\\images\\ediyt.png")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon("ediyt.png")); // NOI18N
         jButton2.setText("Edit");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -299,7 +299,7 @@ PreparedStatement pst;
             }
         });
 
-        jButton4.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Downloads\\images (1).png")); // NOI18N
+        jButton4.setIcon(new javax.swing.ImageIcon("images (1).png")); // NOI18N
         jButton4.setText("Save");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -409,7 +409,7 @@ PreparedStatement pst;
         jLabel20.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel20.setText("Deposit Account");
 
-        jButton3.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\Library Manage System\\Search.jpg")); // NOI18N
+        jButton3.setIcon(new javax.swing.ImageIcon("Search.jpg")); // NOI18N
         jButton3.setText("Search");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -417,7 +417,7 @@ PreparedStatement pst;
             }
         });
 
-        jButton5.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\My\\src\\my\\images\\total.png")); // NOI18N
+        jButton5.setIcon(new javax.swing.ImageIcon("total.png")); // NOI18N
         jButton5.setText("Total");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -425,7 +425,7 @@ PreparedStatement pst;
             }
         });
 
-        jButton6.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\My\\src\\my\\images\\deposiy.png")); // NOI18N
+        jButton6.setIcon(new javax.swing.ImageIcon("deposiy.png")); // NOI18N
         jButton6.setText("Deposit");
         jButton6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -524,7 +524,7 @@ PreparedStatement pst;
 
         jTextField30.setEnabled(false);
 
-        jButton11.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\Library Manage System\\Search.jpg")); // NOI18N
+        jButton11.setIcon(new javax.swing.ImageIcon("Search.jpg")); // NOI18N
         jButton11.setText("Search");
         jButton11.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -532,7 +532,7 @@ PreparedStatement pst;
             }
         });
 
-        jButton12.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\My\\src\\my\\images\\Show.png")); // NOI18N
+        jButton12.setIcon(new javax.swing.ImageIcon("Show.png")); // NOI18N
         jButton12.setText("Show");
         jButton12.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -540,7 +540,7 @@ PreparedStatement pst;
             }
         });
 
-        jButton13.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\My\\src\\my\\images\\withdraw.png")); // NOI18N
+        jButton13.setIcon(new javax.swing.ImageIcon("withdraw.png")); // NOI18N
         jButton13.setText("WithDraw");
         jButton13.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
