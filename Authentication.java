@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Tonmoy
+ *
  */
 public class Authentication extends javax.swing.JFrame {
 Connection cnn;
@@ -54,7 +54,7 @@ PreparedStatement pst;
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel1.setText("Wel Come");
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\BankManagementSystem\\images\\new ac.png")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon("new ac.png")); // NOI18N
         jButton2.setText("Creat Account");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -68,7 +68,7 @@ PreparedStatement pst;
         jLabel4.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel4.setText("Enter Account no:");
 
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\Library Manage System\\login.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("login.png")); // NOI18N
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
