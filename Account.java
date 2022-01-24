@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Tonmoy
+ *
  */
 public class Account extends javax.swing.JFrame {
 Connection cnn;
@@ -129,7 +129,7 @@ PreparedStatement pst;
         jLabel9.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel9.setText("Date of BIrth");
 
-        jButton3.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\My\\src\\my\\images\\clear-128.png")); // NOI18N
+        jButton3.setIcon(new javax.swing.ImageIcon("clear-128.png")); // NOI18N
         jButton3.setText("Clear");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -143,7 +143,7 @@ PreparedStatement pst;
         buttonGroup1.add(jRadioButton1);
         jRadioButton1.setText("Male");
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\My\\src\\my\\images\\back.jpg")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon("back.jpg")); // NOI18N
         jButton2.setText("Back");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -163,7 +163,7 @@ PreparedStatement pst;
         jLabel13.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel13.setText("Sequrity Q.");
 
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\My\\src\\my\\images\\creat.jpg")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("creat.jpg")); // NOI18N
         jButton1.setText("Creat");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -307,7 +307,7 @@ PreparedStatement pst;
         jLabel15.setForeground(new java.awt.Color(204, 0, 0));
         jLabel15.setText("Thank you for Banking with us..");
 
-        jLabel17.setIcon(new javax.swing.ImageIcon("C:\\Users\\Tonmoy\\Documents\\NetBeansProjects\\My\\src\\my\\images\\prime-bank-limited.jpg")); // NOI18N
+        jLabel17.setIcon(new javax.swing.ImageIcon("prime-bank-limited.jpg")); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
